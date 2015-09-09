@@ -1,0 +1,30 @@
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe.config
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\bin\Debug\ACO Examen.pdb
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csprojResolveAssemblyReference.cache
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Form1.resources
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO Examen.exe
+c:\users\danny\documents\visual studio 2012\Projects\ACO Examen\ACO Examen\obj\Debug\ACO Examen.pdb
+F:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe.config
+F:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.exe
+F:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.pdb
+F:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe
+F:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.pdb
+F:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csprojResolveAssemblyReference.cache
+F:\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Form1.resources
+F:\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Properties.Resources.resources
+F:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csproj.GenerateResource.Cache
+E:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe.config
+E:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.exe
+E:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.pdb
+E:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe
+E:\ACO Examen\ACO Examen\bin\Debug\ACO Examen.pdb
+E:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csprojResolveAssemblyReference.cache
+E:\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Form1.resources
+E:\ACO Examen\ACO Examen\obj\Debug\ACO_Examen.Properties.Resources.resources
+E:\ACO Examen\ACO Examen\obj\Debug\ACO Examen.csproj.GenerateResource.Cache
+E:\danny\Documentos\Uni\Sin acomodar\ACO Examen\ACO Examen\bin\Debug\ACO Examen.exe.config
+E:\danny\Documentos\Uni\Sin acomodar\ACO Examen\ACO Examen\obj\Debug\ACO Examen.exe
+E:\danny\Documentos\Uni\Sin acomodar\ACO Examen\ACO Examen\obj\Debug\ACO Examen.pdb
